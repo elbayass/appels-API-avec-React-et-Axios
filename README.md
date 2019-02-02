@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+Ressource utilisé :
+
+https://reactjs.org/docs/faq-ajax.html
+
+https://code.tutsplus.com/tutorials/introduction-to-api-calls-with-react-and-axios--cms-21027
