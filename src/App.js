@@ -1,6 +1,7 @@
 import React from 'react';
 import axios from 'axios';
 import './App.css';
+import './index.css'
 
 export default class PersonList extends React.Component {
   state = {
@@ -13,11 +14,10 @@ export default class PersonList extends React.Component {
         const persons = res.data;
         this.setState({ persons });
       })
+
   }
 
-
   render() {
-
 
     return (
       <div className="container_user">
